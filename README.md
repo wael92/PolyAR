@@ -1,6 +1,5 @@
 # PolyAR
 
-# PolyAR
 PolyAR: A Highly Parallelizable Solver For Polynomial Inequality Constraints Using Convex Abstraction Refinement
 
 1. Introduction
